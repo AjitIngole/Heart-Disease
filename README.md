@@ -10,9 +10,6 @@ We are building model with Balance data set and Random Forest.
 
 we Need To provide inputs like Age,Stroke,Diabetic,Physical Activity,Smoking,Drinking,Gender,Asthma,etc. We Get Predicted Result on inputs like "You have Heart Disease please consult a Doctor" or " You Don't have Heart Disease"
 
-Example:
-
-
 
 
 ##Conclusion and Output
